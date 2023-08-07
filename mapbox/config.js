@@ -34,6 +34,11 @@ var config = {
                 pitch: 60,
                 bearing: 0
             },
+            rotation: {
+                x: 0,
+                y: 0,
+                z: 0
+            },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
             callback: '',
@@ -66,13 +71,19 @@ var config = {
                     Etiam posuere aliquet sapien et venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean a tellus lacus. Integer quis varius enim. Vestibulum ultrices mollis metus, sed lacinia nisl efficitur at. Vestibulum in eleifend dui. Aliquam nunc mi, tristique nec feugiat vitae, euismod nec sem. Aliquam mi ante, aliquet vel consequat et, pretium in arcu. Vestibulum vehicula lacus sit amet ipsum volutpat, vitae imperdiet ipsum varius. Curabitur a odio volutpat, facilisis nisi in, iaculis odio. Fusce lorem arcu, ullamcorper non maximus nec, suscipit at tellus. Curabitur rhoncus scelerisque leo non faucibus. Mauris ac lectus eget metus imperdiet aliquet ac non metus. Mauris ac sem sem.
                 </p>
             `,
-            model: 'https://satomo5.github.io/3d/scene.gltf',
-            scale: 500,
+            model: 'https://satomo5.github.io/3d/sambisari/scene.gltf',
+            scale: 3,
+            locatioObj: [110.47363, -7.76186],
             location: {
                 center: [110.47428103950577, -7.761219359027983],
                 zoom: 18,
                 pitch: 60,
                 bearing: 0
+            },
+            rotation: {
+                x: 0,
+                y: 0,
+                z: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -106,8 +117,9 @@ var config = {
                     Etiam blandit ullamcorper mauris vitae venenatis. Morbi ac nunc in felis fringilla dictum. Duis et dignissim arcu. Proin vel auctor ante, dapibus scelerisque nisl. Nulla fermentum orci id arcu pulvinar, sit amet vehicula leo blandit. Fusce porta leo felis, id mattis diam rhoncus ac. Suspendisse potenti. Suspendisse congue nec purus at condimentum. Vivamus a felis id ante sagittis condimentum ut et lectus. Donec pretium placerat nisi, vitae fringilla ipsum elementum nec. Sed dolor odio, varius a tellus at, sodales molestie ligula. Proin tincidunt faucibus tellus sed eleifend. Donec mattis non diam sit amet molestie.
                 </p>
             `,
-            model: 'https://satomo5.github.io/3d/scene.gltf',
+            model: 'https://satomo5.github.io/3d/kedulan/scene.gltf',
             scale: 500,
+            locatioObj: [110.46933, -7.74247],
             location: {
                 center: [110.46969789532558, -7.742360002737333],
                 zoom: 18,
@@ -119,6 +131,11 @@ var config = {
                 // to pan.
                 //speed: 2, // make the flying slow
                 //curve: 1, // change the speed at which it zooms out
+            },
+            rotation: {
+                x: 0,
+                y: 0,
+                z: 270
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -143,13 +160,19 @@ var config = {
                     Etiam posuere aliquet sapien et venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean a tellus lacus. Integer quis varius enim. Vestibulum ultrices mollis metus, sed lacinia nisl efficitur at. Vestibulum in eleifend dui. Aliquam nunc mi, tristique nec feugiat vitae, euismod nec sem. Aliquam mi ante, aliquet vel consequat et, pretium in arcu. Vestibulum vehicula lacus sit amet ipsum volutpat, vitae imperdiet ipsum varius. Curabitur a odio volutpat, facilisis nisi in, iaculis odio. Fusce lorem arcu, ullamcorper non maximus nec, suscipit at tellus. Curabitur rhoncus scelerisque leo non faucibus. Mauris ac lectus eget metus imperdiet aliquet ac non metus. Mauris ac sem sem.
                 </p>
             `,
-            model: 'https://satomo5.github.io/3d/scene.gltf',
-            scale: 500,
+            model: 'https://satomo5.github.io/3d/kalasan/scene.gltf',
+            scale: 1.5,
+            locatioObj: [110.47202, -7.76753],
             location: {
                 center: [110.47237195299788, -7.767060753769619],
                 zoom: 18,
                 pitch: 60,
                 bearing: 0
+            },
+            rotation: {
+                x: 0,
+                y: 0,
+                z: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -172,13 +195,19 @@ var config = {
                     Etiam posuere aliquet sapien et venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean a tellus lacus. Integer quis varius enim. Vestibulum ultrices mollis metus, sed lacinia nisl efficitur at. Vestibulum in eleifend dui. Aliquam nunc mi, tristique nec feugiat vitae, euismod nec sem. Aliquam mi ante, aliquet vel consequat et, pretium in arcu. Vestibulum vehicula lacus sit amet ipsum volutpat, vitae imperdiet ipsum varius. Curabitur a odio volutpat, facilisis nisi in, iaculis odio. Fusce lorem arcu, ullamcorper non maximus nec, suscipit at tellus. Curabitur rhoncus scelerisque leo non faucibus. Mauris ac lectus eget metus imperdiet aliquet ac non metus. Mauris ac sem sem.
                 </p>
             `,
-            model: 'https://satomo5.github.io/3d/scene.gltf',
-            scale: 500,
+            model: 'https://satomo5.github.io/3d/prambanan/scene.gltf',
+            scale: 5,
+            locatioObj: [110.49149958183362, -7.7517760840958],
             location: {
                 center: [110.49149958183362, -7.7517760840958],
                 zoom: 18,
                 pitch: 60,
                 bearing: 0
+            },
+            rotation: {
+                x: 0,
+                y: 0,
+                z: 270
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
