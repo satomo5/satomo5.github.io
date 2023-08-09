@@ -71,9 +71,9 @@ var config = {
                     Etiam posuere aliquet sapien et venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean a tellus lacus. Integer quis varius enim. Vestibulum ultrices mollis metus, sed lacinia nisl efficitur at. Vestibulum in eleifend dui. Aliquam nunc mi, tristique nec feugiat vitae, euismod nec sem. Aliquam mi ante, aliquet vel consequat et, pretium in arcu. Vestibulum vehicula lacus sit amet ipsum volutpat, vitae imperdiet ipsum varius. Curabitur a odio volutpat, facilisis nisi in, iaculis odio. Fusce lorem arcu, ullamcorper non maximus nec, suscipit at tellus. Curabitur rhoncus scelerisque leo non faucibus. Mauris ac lectus eget metus imperdiet aliquet ac non metus. Mauris ac sem sem.
                 </p>
             `,
-            model: 'https://satomo5.github.io/3d/sambisari/scene.gltf',
+            model: 'https://satomo5.github.io/3d/prambanan/scene.gltf',
             scale: 3,
-            locatioObj: [110.47363, -7.76186],
+            locatioObj: [110.47407, -7.76115],
             location: {
                 center: [110.47428103950577, -7.761219359027983],
                 zoom: 18,
@@ -83,7 +83,7 @@ var config = {
             rotation: {
                 x: 0,
                 y: 0,
-                z: 0
+                z: 270
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
@@ -184,7 +184,7 @@ var config = {
             id: 'item-4',
             alignment: 'list-card',
             hidden: false,
-            title: 'Bagian 4 - Candi Prambanan',
+            title: 'Bagian 4 - Candi Sambisari',
             image: 'https://media.istockphoto.com/id/1133179764/id/foto/losari-beach.jpg?s=170667a&w=0&k=20&c=HDtqv2iAKQcwTKWJnOVwDPhDYnLB8YOIdpcm3nFq-IA=',
             description: `
                 <p>
@@ -195,11 +195,11 @@ var config = {
                     Etiam posuere aliquet sapien et venenatis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean a tellus lacus. Integer quis varius enim. Vestibulum ultrices mollis metus, sed lacinia nisl efficitur at. Vestibulum in eleifend dui. Aliquam nunc mi, tristique nec feugiat vitae, euismod nec sem. Aliquam mi ante, aliquet vel consequat et, pretium in arcu. Vestibulum vehicula lacus sit amet ipsum volutpat, vitae imperdiet ipsum varius. Curabitur a odio volutpat, facilisis nisi in, iaculis odio. Fusce lorem arcu, ullamcorper non maximus nec, suscipit at tellus. Curabitur rhoncus scelerisque leo non faucibus. Mauris ac lectus eget metus imperdiet aliquet ac non metus. Mauris ac sem sem.
                 </p>
             `,
-            model: 'https://satomo5.github.io/3d/prambanan/scene.gltf',
+            model: 'https://satomo5.github.io/3d/sambisari/scene.gltf',
             scale: 5,
-            locatioObj: [110.49149958183362, -7.7517760840958],
+            locatioObj: [110.44605, -7.76293],
             location: {
-                center: [110.49149958183362, -7.7517760840958],
+                center: [110.44699447998208, -7.7622571207001485],
                 zoom: 18,
                 pitch: 60,
                 bearing: 0
@@ -207,7 +207,7 @@ var config = {
             rotation: {
                 x: 0,
                 y: 0,
-                z: 270
+                z: 0
             },
             mapAnimation: 'flyTo',
             rotateAnimation: false,
